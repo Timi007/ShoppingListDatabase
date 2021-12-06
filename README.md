@@ -1,4 +1,4 @@
-# Shopping List
+# Shopping List Database
 
 University project about containerization of REST API.
 
@@ -18,7 +18,7 @@ docker run -d -p 5432:5432 -e POSTGRES_USER=my_user -e POSTGRES_PASSWORD=my_pass
 
 ## Connect to DBMS
 
-The container will start with a database called `ShoppingList` with a table `Item` and 3 test rows in it.
+The container will start with a database called `ShoppingList`, a table `Item`, 3 test rows and a sequence `Item_id_seq` in it.
 
 Use following connection string to connect to the container from an app:
 ```
