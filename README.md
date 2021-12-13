@@ -1,8 +1,25 @@
 # Shopping List Database
 
-University project about containerization of REST API.
+<p align="center">
+    <a href="https://hub.docker.com/r/timi007/shoppinglistdatabase">
+        <img alt="Docker" src="https://badgen.net/badge/icon/docker?icon=docker&label">
+    </a>
+    <a href="https://hub.docker.com/r/timi007/shoppinglistdatabase">
+        <img alt="Docker Image Size" src="https://img.shields.io/docker/image-size/timi007/shoppinglistdatabase/latest">
+    </a>
+    <a href="https://hub.docker.com/r/timi007/shoppinglistdatabase">
+        <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/timi007/shoppinglistdatabase">
+    </a>
+    <a href="https://github.com/Timi007/ShoppingListDatabase/blob/master/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/Timi007/ShoppingListDatabase">
+    </a>
+    <img alt="Docker Image Version" src="https://img.shields.io/docker/v/timi007/shoppinglistdatabase/latest">
+</p>
 
-This is the database for the [API](https://github.com/Timi007/ShoppingListMinimal).
+<p align="center">
+    University project about containerization of REST API.
+    This is the database for the <a href="https://github.com/Timi007/ShoppingListMinimal">API</a>.
+</p>
 
 ## Getting started
 
